@@ -8,3 +8,7 @@ Humans have the advantage of teching fellow humans their ingenuity and creating 
 
 
 I am using Autodesk Fusion 360 (free for students, hobbyists and startups) to design. Anyone willing to help with the design can do so with the Fusion's built-in team collaboration tools or wait till the design is complete to download all the part drawings and bulid the machine yourself. 
+
+
+Other sources you might want to watch about aerostatic bearings: https://www.youtube.com/watch?v=K_N_h_mKf-4
+https://www.youtube.com/watch?v=vuzoEe_ykmM
